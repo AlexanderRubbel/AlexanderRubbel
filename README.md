@@ -2,7 +2,7 @@
 
 ### Cybersecurity student (dual). Homelab & Unraid tinkerer
 
-- 🔭 I'm currently working on **Fahrender-bierkasten https://github.com/Sandpit0/fahrender-bierkasten**
+- 🔭 I'm currently working on **https://github.com/Sandpit0/fahrender-bierkasten**
 
 - 🌱 I'm currently learning **CPP & Java**
 

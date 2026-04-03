@@ -2,9 +2,9 @@
 
 ### Cybersecurity student (dual). Homelab & Unraid tinkerer
 
-- 🔭 I'm currently working on **https://github.com/Sandpit0/fahrender-bierkasten**
+- 🔭 I'm currently working on **https://gitlab.com/Tesla-OPEN-CAN-MOD/tesla-open-can-mod**
 
-- 🌱 I'm currently learning **CPP & Java**
+- 🌱 I'm currently learning **CAN**
 
 - 💬 Ask me about **UNRAID**
 

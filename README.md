@@ -2,7 +2,7 @@
 
 ### Cybersecurity student (dual). Homelab & Unraid tinkerer
 
-- 🔭 I'm currently working on **https://gitlab.com/Tesla-OPEN-CAN-MOD/tesla-open-can-mod**
+- 🔭 I'm currently working on **https://github.com/ev-open-can-tools**
 
 - 🌱 I'm currently learning **CAN**
 

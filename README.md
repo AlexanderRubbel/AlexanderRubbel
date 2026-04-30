@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **https://github.com/ev-open-can-tools**
 
-- 🌱 I'm currently learning **CAN**
+- 🌱 I'm currently learning about **CAN and Ethernet** in the automotive world
 
 - 💬 Ask me about **UNRAID**
 

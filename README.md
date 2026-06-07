@@ -52,48 +52,7 @@ contact:     mail@alexanderrubbel.de
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/AlexanderRubbel">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexanderRubbel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlexanderRubbel&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexanderRubbel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats"/>
-  </picture>
-</a>
-<a href="https://github.com/AlexanderRubbel">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderRubbel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderRubbel&layout=compact&theme=default&hide_border=true&langs_count=8"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderRubbel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-  </picture>
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AlexanderRubbel&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AlexanderRubbel&theme=default&hide_border=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexanderRubbel&theme=tokyonight&hide_border=true" alt="streak"/>
-  </picture>
-</a>
-
-<br/>
-
-<a href="https://github.com/AlexanderRubbel">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AlexanderRubbel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AlexanderRubbel&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=AlexanderRubbel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
-  </picture>
-</a>
-
-</div>
-
----
+#
 
 ### 🌐 Connect with Me
 

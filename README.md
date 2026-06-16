@@ -21,7 +21,7 @@
 
 ```yaml
 name:        Alexander Rubbel
-role:        Cybersecurity Student (dual)
+role:        -
 working_on:  ev-open-can-tools
 learning:    CAN bus & Automotive Ethernet
 ask_me_about: UNRAID, Homelab, Self-hosting
